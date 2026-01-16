@@ -1,4 +1,4 @@
-# Repositório do Trabalho de Conclusão de Curso - CoMatrix
+# Repositório do Trabalho de Conclusão de Curso em Engenharia de Computação
 
 Este repositório contém os componentes utilizados para a elaboração do trabalho de conclusão de curso em Engenharia de Computação, intitulado "Utilizando o Protocolo Matrix para Ecossitemas IoT com Recursos Restritos".
 
